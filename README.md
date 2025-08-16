@@ -19,8 +19,4 @@ The dashboard includes:
 - **Call of Duty** appears **8 times** in the Top 100.
 - Strong presence of **Nintendo franchises** (Mario, Pokémon, Wii).
 
-## 🔮 Future Improvements
-- Automate the analysis with **Python (Pandas, Matplotlib, Seaborn)**.
-- Build a web-based dashboard using **Plotly / Dash**.
-
 ---
