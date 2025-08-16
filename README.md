@@ -1,5 +1,7 @@
 # 🎮 Game Sales Dashboard
 
+![Top100-Games-ScreenShot](https://github.com/user-attachments/assets/18df272b-d04b-45cb-acaa-b9ca7b6d0a4a)
+
 ## 📌 About
 This project analyzes the **Top 100 Best-Selling Video Games** and visualizes insights through an interactive **Excel Dashboard**.  
 The dashboard includes:
